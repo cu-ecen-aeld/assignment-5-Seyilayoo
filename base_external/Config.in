@@ -1,0 +1,2 @@
+#"$BR2_EXTERNAL_" + "project_base" + "_path"
+source "$BR2_EXTERNAL_project_base_PATH/package/aesd-assignments/Config.in"
